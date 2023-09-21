@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
  Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and recently I've started learning **ReactNative**.
 
- <mark>Desired position:</mark> **Middle-/Middle Android Developer**. 
+ <mark>Desired position:</mark> **Middle-/Middle Android Developer** 
 
   - Native language is Russian
   - English level is C1
@@ -126,7 +126,7 @@ content:
         sub_title: Android Developer
         caption: November 2022 - May 2023
         description: | 
-            Application development for an online lottery ticket purchase service. I was the <br>lead developer.<br>
+            Application development for an online lottery ticket purchase service. I was the **lead developer**.
             **Responsibilities:**
             - Development of new features
             - Onboarding of other developers and further support
@@ -162,10 +162,11 @@ content:
         sub_title: Software Engineering, ITIS
         description: | 
           As part of my undergraduate studies, I **gained a strong background knowledge in a variety of areas** including:<br> Discrete Mathematics, Mathematical Analysis, Algorithms and Data Structures, Probability Theory and Mathematical Statistics, Database Operations, Operating System Architecture, Software Development Lifecycle, Information and Coding Theory, Information Security, UI/UX Design, System Analytics, Fundamentals of System Testing, Web Development, Data Mining, Machine Learning.
-          <br><br>Academic rating (out of 100):
-                - 2020/2021 : **90,53 points**
-                - 2021/2022 : **94.47 points**   
-                - 2022/2023 : **89,24 points**
+          
+          **Academic rating** (out of 100):
+          - 2020/2021 : **90,53 points**
+          - 2021/2022 : **94.47 points**   
+          - 2022/2023 : **89,24 points**
 
       - layout: left
         title: Skillbox
