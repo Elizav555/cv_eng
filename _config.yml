@@ -49,12 +49,12 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hey, My name is **Elizaveta Garkina**, date of birth **01.09.2002**, at the moment I live in **Kazan**.
 
- Now I am a fourth-year student at **Kazan Federal University** in the field of **Software Engineering**. 
+ Now I am a fourth-year student at **Kazan Federal University** in the field of **Software Engineering**. The topics of my thesis are: **Methods and program mechanisms for generating visual models of Android applications**.
  In addition, I am attached to the **Mobile Development Lab**, have been involved in mobile app development **since 2021**.
 
  Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and recently I've started learning **ReactNative**.
 
- <mark>Desired position:</mark> **Middle-/Middle Android Developer** 
+ <mark>Desired position:</mark> **Middle Android Developer** 
 
   - Native language is Russian
   - English level is C1
@@ -102,13 +102,18 @@ content:
         link_text: technokratos.com
         sub_title: Android Developer
         caption: May 2023 - ...
-        description: | 
-            Development of a terminal and tablet application large enterprise's work automatization.<br>
+        description: |
+            Implementation of manufacturing process control system and production tooling storage, MES system.<br>
             **Responsibilities:**
+            - Lead of Android development team
             - Creating components for UiKit
+            - Adaptation of the application for different devices: terminal, tablet, smartphones
             - Development and implementation of new features and refactoring of existing functionality
-            - Worked with external camera and internal device storage
+            - Realization of work with external camera and internal storage of the device
             - Code-review
+            - Fixing bugs and solving technical problems
+            - Application performance optimization
+            - Covering code with unit tests
 
             **Stack:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
             
