@@ -49,10 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hey, My name is **Elizaveta Garkina**, date of birth **01.09.2002**, at the moment I live in **Kazan**.
 
- Now I am a fourth-year student at **Kazan Federal University** in the field of **Software Engineering**. The topics of my thesis are: **Methods and program mechanisms for generating visual models of Android applications**.
- In addition, I am attached to the **Mobile Development Lab**, have been involved in mobile app development **since 2021**.
-
- Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and recently I've started learning **ReactNative**.
+ Have been involved in mobile app development **since 2021**. Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and recently I've started learning **ReactNative**.
 
  <mark>Desired position:</mark> **Middle Android Developer** 
 
@@ -60,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   - English level is C1
   - Also know a little bit of French and Spanish
 
-  - Quite sociable and easily join the team
+  - Sociable and easily join the team
   - Fast learner and inquisitive
   - Always meet deadlines and have the makings of a good leader
 content:
@@ -97,13 +94,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: T-Bank
+        link: https://www.tbank.ru/
+        link_text: tbank.ru
+        sub_title: Android Developer
+        caption: June 2024 - ...
+        description: |
+          <mark>Developer in the Fuel team.</mark>
+
+      - layout: left
         title: Technokratos (Технократия)
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
         link_text: technokratos.com
         sub_title: Android Developer
-        caption: May 2023 - ...
+        caption: May 2023 - June 2024
         description: |
-            Implementation of manufacturing process control system and production tooling storage, MES system.<br>
+            <mark>Implementation of manufacturing process control system and production tooling storage, MES system.</mark><br>
             **Responsibilities:**
             - Lead of Android development team
             - Creating components for UiKit
@@ -122,17 +128,24 @@ content:
             - Worked with NFC sensor and external camera
             - Created a common mechanism for error handling in the whole application
             - Realized work with table views with fixing of headers and columns
-            - Passed the certification for the position of **middle android developer**
-            - Passed the **360 Soft Skills Assessment** with a high score of 2.3 out of 3 and **very positive feedback from the team**
+            - Received **positive** feedback from the team and the customer throughout the job<br><br>   
+          
+            <mark>Auditing application code for an insurance company</mark><br>
+            **During this time:**
+            - Designed an audit plan and created a report template for mobile developers
+            - Used MobSF, LeakCanary, Accessibility Scanner, SonarQube
+            - Analyzed the project architecture<br><br><br>
+
       - layout: left
         title: Spider Group
         link: https://spider.ru/
         link_text: spider.ru
         sub_title: Android Developer
         caption: November 2022 - May 2023
-        description: | 
-            Application development for an online lottery ticket purchase service. I was the **lead developer**.
+        description: |
+            <mark>Application development for an online lottery ticket purchase service.</mark><br>
             **Responsibilities:**
+            - Lead Android Developer
             - Development of new features
             - Onboarding of other developers and further support
             - Large number of tasks with multithreading
@@ -165,13 +178,11 @@ content:
         title: Kazan Federal University
         caption: 2020 - 2024
         sub_title: Software Engineering, ITIS
-        description: | 
+        description: |
+          **Diploma with honors**, grade point average : 4.9.<br>
+          Theme of the thesis: **Methods and program mechanisms for generating visual models of Android application structure.**<br>
+          Was attached to the **Mobile Development Laboratory** at the university.<br>
           As part of my undergraduate studies, I **gained a strong background knowledge in a variety of areas** including:<br> Discrete Mathematics, Mathematical Analysis, Algorithms and Data Structures, Probability Theory and Mathematical Statistics, Database Operations, Operating System Architecture, Software Development Lifecycle, Information and Coding Theory, Information Security, UI/UX Design, System Analytics, Fundamentals of System Testing, Web Development, Data Mining, Machine Learning.
-          
-          **Academic rating** (out of 100):
-          - 2020/2021 : **90,53 points**
-          - 2021/2022 : **94.47 points**   
-          - 2022/2023 : **89,24 points**
 
       - layout: left
         title: Skillbox
@@ -187,189 +198,13 @@ content:
         description: | 
           Successfully completed the courses of **System analysis from BARS Group and UI/UX design from Agona**.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: GiftGiver
-        link: https://elizav555.github.io/GiftGiver
-        link_text: Project Page
-        additional_links:
-          - title:  GiftGiver Repository
-            icon: fab fa-github
-            url: https://github.com/Elizav555/GiftGiver
-        description: | 
-          A small educational project that will help you please your loved ones and will make it easier to choose gifts for them. User can make wishlists, look at the calendar of upcoming holidays and birthdays of his friends from VK, as well as look throw their Wishlists.
-            
-            <mark>Features</mark> | <mark>Stack</mark>
-             Theme changing (dark and light) | MVVM
-             Loading friends list from VK, searching and filtration | Xml
-             Add friend to favorites | Shared Element Animation
-             View friend's Wishlists and gifts | Work Manager
-             See which gifts are already unavailable for selection | ViewModel
-             See which gifts you have chosen  | Flow
-             Anonymous choice of gifts and adding them to shopping list | LiveData
-             Create and edit your own Wishlists and gifts | Coroutines
-             If friend changed his gift after you added it to cart, it will be marked | Room
-             Edit profile | Firebase Notifications
-             View photos and upload them from camera/gallery | Firestore
-             Calendar with friends birthdays and holidays | Storage
-             Holidays are taken from api | Coil
-             Ability to add/delete events | Retrofit and Okhttp
-             Notification one day before event | Dagger2
-             Firebase Push Notifications | Clean Architecture
-             Data storing in Firestore and Storage | Material Calendar
-             Data backup in Room for offline mode | VK SDK
-              |
-             
-          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191795380-6029d606-f53c-4107-8728-9bba0257d1cc.mp4)
-          
-          
-          ![Users Profile](images/users_profile.jpg  "User's Profile"  )
-          ![Wishlist](images/wishlist.jpg "User's Wishlist")
-          ![Friends](images/friends.jpg "Friends")
-          ![Friends Wishlist](images/friends_wishlist.jpg "Friend's Wishlist")
-          ![Calendar](images/calendar.jpg "Calendar")
-
-          
-      - layout: top-middle
-        title: FiveLetters
-        link: https://elizav555.github.io/FiveLetters
-        link_text: Project Page
-        additional_links:
-          - title:  FiveLetters Repository
-            icon: fab fa-github
-            url: https://github.com/Elizav555/FiveLetters
-        description: | 
-          A game in which you will have five tries to guess the hidden word. After each try, the letters that are guessed correctly and the letters that are in the word but are in the wrong position will be highlighted. This project was implemented to practice with Compose.
-          
-          <mark>Features</mark> | <mark>Stack</mark>
-             Theme changing(dark and light) | Compose
-             Dynamic color support | Compose Animation
-             Change of localization (Russian/English) | ViewModel
-             Save game settings and state in Shared Preferences | Flow
-             Choice of difficulty level  number of letters (5/6/7) | Coroutines
-             Dialog with game rules | Events and State
-             Custom Keyboard | Material3
-             Offline mode support  | Retrofit and Okhttp
-             Words are taken from the api | Hilt
-             Letter guessing animation  | Clean Architecture
-                | Shared Preferences
-                |
-
-          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191793128-c7b77eda-26ed-42de-a81d-051080a5b844.mp4)
-          
-          
-          ![Game Rus](images/game_russian.jpg  "Game Russian"  )
-          ![Game Eng](images/game_english.jpg "Game English")
-          ![Info](images/info_eng.jpg "Info Dialog")
-          ![Settings](images/settings_russian.jpg "Settings Dialog")
-          ![Won Dialog](images/won_eng.jpg "Won Dialog")
-      
-      # - layout: top-middle
-      #   title:  MVIShopping
-      #   link: https://elizav555.github.io/MVIShopping
-      #   link_text: Project Page
-      #   additional_links:
-      #     - title:  MVIShopping Repository
-      #       icon: fab fa-github
-      #       url: https://github.com/Elizav555/MVIShopping
-      #   description: | 
-      #     This app was my first attempt to work with RxRedux for MVI.
-          
-      #     <mark>Features</mark> | <mark>Stack</mark>
-      #       Google one tap signIn | Firebase Auth
-      #       Edit products in list | Firestore
-      #       Add product to cart | RxRedux
-      #       Sort lists (dynamic icon for both lists) | RxJava
-      #       Cart's count on badge | Coroutines
-      #        | ViewPager2
-      #        | Tabs
-      #        | Hilt
-      #        | MVI
-      #        | Clean Architecture
-
-      #     <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/196248223-90612eb8-1cbc-4f09-bc8b-b1d8482b4299.mp4) 
-          
-          
-      #     ![Products List](images/productsList.jpg  "Products List"  )
-      #     ![Cart](images/cart.jpg "Cart")
-      #     ![Sign In](images/signin.jpg "Sign In")
-
-      # - layout: top-middle
-      #   title:  WeatherApp
-      #   link: https://elizav555.github.io/Weather_App
-      #   link_text: Project Page
-      #   additional_links:
-      #     - title:  WeatherApp Repository
-      #       icon: fab fa-github
-      #       url: https://github.com/Elizav555/Weather_App
-      #   description: | 
-      #     My first MVVM client-server app.
-          
-      #     <mark>Features</mark> | <mark>Stack</mark>
-      #       Search for a city | FusedLocationProviderClient
-      #       Display a list with the nearest 10 places | ViewModel
-      #       If there is no access to the location, the default location is set | LiveData
-      #       Support both dark and light themes | Coroutines
-      #       Layout for landscape mode | DataBinding
-      #       Animation | Shared Element Animation
-      #       Request Permissions | Retrofit and Okhttp
-      #       Some tests | Hilt and Dagger2 (branch dagger2)
-      #       The color of the temperature text depends on the temperature | Assisted Inject
-      #        | Clean Architecture
-      #        | JUnit5
-      #        | MockK
-
-      #     <mark>Screenshots</mark>   [FirstScreencast](https://user-images.githubusercontent.com/78415957/194026549-4eea857e-a978-4069-9f89-9c4a8a882d6f.mp4) [SecondScreencast](https://user-images.githubusercontent.com/78415957/194026555-7f1612e1-de84-4ffd-9f91-6403b04ea0cd.mp4)
-          
-          
-      #     ![Nearest places list](images/list.jpg  "Nearest places list"  )
-      #     ![Nearest places list](images/list_dark.jpg "Nearest places list dark")
-      #     ![Rationale](images/rationale.jpg "Rationale")
-      #     ![Weather Screen](images/weather.jpg "Weather Screen")
-      #     ![Weather Screen dark](images/weather_dark.jpg "Weather Screen dark")
-
-      # - layout: top-middle
-      #   title: MarvelApp
-      #   link: https://elizav555.github.io/MarvelApp
-      #   link_text: Project Page
-      #   additional_links:
-      #     - title:  MarvelApp Repository
-      #       icon: fab fa-github
-      #       url: https://github.com/Elizav555/MarvelApp
-      #   description: | 
-      #     Simple app for MVP and RxJava practice.
-          
-      #     <mark>Features</mark> | <mark>Stack</mark>
-      #       Search using MarvelApi, reacts when user is typing | Cicerone
-      #       Navigation using router | RxJava3
-      #       Display characters list and their detailed info | Moxy
-      #       MVP architecture | Flow
-      #       Each Api call includes md5 hash from private and public api keys, timestamp | MD5
-      #       Some tests | Retrofit and Okhttp
-      #        | Clean Architecture
-      #        | Hilt
-      #        | MockK
-      #        | JUnit5
-
-      #     <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/194083697-b97338a3-8e63-4a18-b1db-42d3867c17df.mp4)
-          
-          
-      #     ![Search](images/search_first.jpg  "Search"  )
-      #     ![Search x2](images/search_second.jpg "Search")
-      #     ![Hero's detail](images/detail.jpg "Hero's detail")
-      #     ![Hero's detail x2](images/detail_second.jpg "Hero's detail")
-
   - title: Hobbies
     layout: text 
     content: |
         - Trying to lead an **active lifestyle**, insterested in **trying something new** and **participating in team activities**
-        - Have a terrible **Hermione Granger complex**
         - I've loved reading since childhood, especially **dystopias and fiction**, lately I've been drawn to different **books related to mythology** in English
         - When I have time, I dive into any **Action/RPG** game with open world
         - One of the reasons I like being a developer is that I will be able to work remotely and **travel** all the time (hopefully)
-        - **3D Modelling** in SketchUp is kinda interesting for me too
 
 # Footer
 footer_show_references: true
