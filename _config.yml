@@ -105,10 +105,6 @@ content:
             - Covering functionality with Unit and UI tests, maintaining test infrastructure
             - Working with the release cycle, feature toggles, configurations, and analytics
 
-            **Stack:** Kotlin • Coroutines • Flow • Jetpack Compose • XML • MotionLayout • MVI • MVVM • Clean Architecture • Multi-module architecture • Internal DI and networking frameworks • JUnit • Mockk • UI tests • Internal analytics and configuration tools
-
-            **Key achievements:**
-
             *Leadership and architectural impact:*
             - Acted as a feature owner of a large cross-platform project (Android, iOS, Web) for over a year: conducting research, defining requirements, coordinating teams, and defending architectural decisions
             - Designed and implemented a universal integration contract for embedding external services into the product, laying the foundation for scalable integrations with other business lines
@@ -127,16 +123,16 @@ content:
             - Introduced TTI measurement and visualization in Grafana, initiated metric unification with iOS for comparability of results
             - Took over and formalized estimation and tech-debt meetings, created a release responsibility calendar and process guidelines
             - Maintained documentation for knowledge transfer, metrics, and architectural decisions
+            - Successfully passed the internal Senior grade evaluation
+            - Received positive feedback from the team, manager, product, design, and adjacent teams throughout performance reviews
 
             *Mentoring and community:*
             - Mentored students within a university internship program — one of the students successfully passed the hiring process and joined the company as a junior
             - Leading the mobile internship program at ITIS: defining requirements, regulations, coordinating mentors, working with students
             - Mentors a student in the internal Academy program and an intern from an adjacent team
             - Represented the company at a major internal conference (700+ participants)
-
-            *Other:*
-            - Successfully passed the internal Senior grade evaluation
-            - Received positive feedback from the team, manager, product, design, and adjacent teams throughout performance reviews<br><br>
+          
+          **Stack:** Kotlin • Coroutines • Flow • Jetpack Compose • XML • MotionLayout • MVI • MVVM • Clean Architecture • Multi-module architecture • Internal DI and networking frameworks • JUnit • Mockk • UI tests • Internal analytics and configuration tools<br><br>
 
       - layout: left
         title: Technokratos (Технократия)
@@ -246,7 +242,7 @@ content:
 # Footer
 footer_show_references: true
 references_title: |
-  Telegram: <a>https://t.me/ElizavG</a>
+  Telegram: <a href="https://t.me/ElizavG">https://t.me/ElizavG</a>
 
 # Build settings
 remote_theme: sproogen/resume-theme
