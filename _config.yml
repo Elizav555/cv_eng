@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Elizaveta Garkina
-title: Android Developer
+title: Senior Android Developer
 email: lizagarkina5@gmail.com
 website: https://elizav555.github.io/
 
@@ -26,7 +26,7 @@ linkedin_username: elizavg
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# orcid_username: [PAN3]
 
 # Additional icon links
 additional_links:
@@ -47,60 +47,96 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hey, My name is **Elizaveta Garkina**, date of birth **01.09.2002**, at the moment I live in **Kazan**.
+  Hey, My name is **Elizaveta Garkina**, date of birth **01.09.2002**, at the moment I live in **Kazan**.
+  Have been involved in mobile app development **since 2021** in commercial native Android development — ranging from product startups to large-scale fintech. I have experience **leading cross-team and cross-platform features**, mentoring, and driving architectural decisions and the adoption of new technologies.
+  Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and **ReactNative**.
 
- Have been involved in mobile app development **since 2021**. Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and recently I've started learning **ReactNative**.
-
- <mark>Desired position:</mark> **Middle Android Developer** 
+  <mark>Desired position:</mark> **Senior / Lead Android Developer**
 
   - Native language is Russian
   - English level is C1
   - Also know a little bit of French and Spanish
-
   - Sociable and easily join the team
   - Fast learner and inquisitive
   - Always meet deadlines and have the makings of a good leader
+
 content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
-    # content: |
-    #     <center>
-    #        <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow</mark> <br><br> 
-    #        <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutines</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito</mark>  <br><br>
-    #        <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark> <mark>MVI</mark> <mark>VIPER</mark>  <br><br>
-    #        <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
-    #        <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark>
-    #        </center>  
     content: |
-        <center>
-         <mark>Kotlin</mark>
-         <mark>XML</mark> <mark>Compose</mark>
-         <mark>Coroutines</mark> <mark>Flow</mark> <mark>LiveData</mark> <mark>RxJava</mark><br><br>
-         <mark>SOLID</mark> <mark>CleanArchitecture</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI</mark><br><br>
-         <mark>NavigationComponent</mark> <mark>Cicerone</mark>
-         <mark>Hilt</mark> <mark>Dagger2</mark>
-         <mark>Retrofit</mark> <mark>Okhttp</mark><br><br>
-         <mark>SharedPreferences</mark> <mark>Room</mark> <mark>Firebase</mark>
-         <mark>JUnit5</mark> <mark>Mockito</mark> <mark>Charles</mark><br><br>
-         <mark>KotlinSerialization</mark> <mark>Lottie</mark> <mark>Moshi</mark><br><br><mark>AdapterDelegates</mark> <mark>SlackEitherNet</mark> <mark>Paging3</mark> <mark>Moxy</mark> <mark>CameraX</mark> <mark>Camera2</mark><br><br>
-         <mark>Flutter</mark> <mark>MachineLearning</mark> <mark>SystemAnalysis</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
-         <mark>SQL</mark> <mark>PostgreSql</mark> <mark>Figma</mark> <mark>Git</mark> <mark>JS</mark> <mark>HTML</mark> <mark>CSS</mark>
-         <br><br>
-         <mark>Communicative</mark> <mark>Responsible</mark> <mark>Disciplined</mark> <mark>Leader</mark> <mark>Purposeful</mark>
-        </center>
-        
+      <center>
+       <mark>Kotlin</mark>
+       <mark>Compose</mark> <mark>XML</mark> <mark>MotionLayout</mark>
+       <mark>Coroutines</mark> <mark>Flow</mark> <mark>LiveData</mark> <mark>RxJava</mark><br><br>
+       <mark>Clean Architecture</mark> <mark>MVI</mark> <mark>MVVM</mark> <mark>MVP</mark> <mark>SOLID</mark><br><br>
+       <mark>Multi-module architecture</mark> <mark>Gradle</mark> <mark>Feature Toggles</mark><br><br>
+       <mark>Hilt</mark> <mark>Dagger2</mark> <mark>Navigation Component</mark> <mark>Cicerone</mark><br><br>
+       <mark>Retrofit</mark> <mark>OkHttp</mark> <mark>Room</mark> <mark>DataStore</mark> <mark>SharedPreferences</mark> <mark>Firebase</mark><br><br>
+       <mark>JUnit</mark> <mark>Mockk</mark> <mark>Mockito</mark> <mark>UI Tests</mark> <mark>Charles</mark><br><br>
+       <mark>CameraX</mark> <mark>Camera2</mark> <mark>Paging3</mark> <mark>Lottie</mark> <mark>Moshi</mark> <mark>Kotlin Serialization</mark> <mark>AdapterDelegates</mark> <mark>Slack EitherNet</mark> <mark>Moxy</mark><br><br>
+       <mark>System Design</mark> <mark>RFC/ADR</mark> <mark>Code Review</mark> <mark>Mentoring</mark> <mark>Feature Lead</mark><br><br>
+       <mark>Grafana</mark> <mark>A/B Testing</mark> <mark>Analytics & Metrics</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
+       <mark>Flutter</mark> <mark>Machine Learning</mark> <mark>System Analysis</mark><br><br>
+       <mark>SQL</mark> <mark>PostgreSql</mark> <mark>Figma</mark> <mark>Git</mark> <mark>JS</mark> <mark>HTML</mark> <mark>CSS</mark>
+       <br><br>
+       <mark>Leadership</mark> <mark>Communicative</mark> <mark>Responsible</mark> <mark>Disciplined</mark> <mark>Mentoring</mark> <mark>Purposeful</mark>
+      </center>
 
-  - title: Experience 
+  - title: Experience
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: T-Bank
         link: https://www.tbank.ru/
         link_text: tbank.ru
-        sub_title: Android Developer
+        sub_title: Senior Android Developer
         caption: June 2024 - ...
         description: |
-          <mark>Developer in the Fuel team.</mark>
+          <mark>Development of a large product service within one of the bank's business streams. Working in a monorepo with a multi-module architecture and integration into the mobile banking app.</mark><br>
+
+            **Responsibilities:**
+            - Design and implementation of new product features
+            - Leading large cross-team and cross-platform features as a feature owner
+            - Conducting technical research and making architectural decisions
+            - Cross-functional collaboration with product, design, analytics, backend, iOS, and adjacent teams
+            - Code review within the team and via inner source for adjacent teams
+            - Mentoring developers and interns, onboarding new team members
+            - Running team meetings (estimations, tech debt, demo, retro)
+            - Covering functionality with Unit and UI tests, maintaining test infrastructure
+            - Working with the release cycle, feature toggles, configurations, and analytics
+
+            **Stack:** Kotlin • Coroutines • Flow • Jetpack Compose • XML • MotionLayout • MVI • MVVM • Clean Architecture • Multi-module architecture • Internal DI and networking frameworks • JUnit • Mockk • UI tests • Internal analytics and configuration tools
+
+            **Key achievements:**
+
+            *Leadership and architectural impact:*
+            - Acted as a feature owner of a large cross-platform project (Android, iOS, Web) for over a year: conducting research, defining requirements, coordinating teams, and defending architectural decisions
+            - Designed and implemented a universal integration contract for embedding external services into the product, laying the foundation for scalable integrations with other business lines
+            - Fully redesigned the service's navigation to support parallel user flows, separated the backstack and state, and unified the behavior of bottom sheets
+            - Authored an RFC-style architectural specification of a cross-platform configuration mechanism, aligned with Web, iOS, backend, and design teams
+
+            *Product impact (A/B test metrics):*
+            - Launched a key feature: target action conversion grew by **+29%** (statistically significant), GMV uplift **+39.8%**
+            - Launched an external service integration: CR to product card **+14.35%**, order CR uplift **+19.7%** — with no negative impact on core service metrics
+            - Validated key product hypotheses that shaped the service's roadmap
+
+            *Engineering culture and processes:*
+            - Led the adoption of Jetpack Compose in the project: research, base classes, Compose UI-testing infrastructure, the first production Compose screen, and an internal demo talk
+            - Significantly increased Unit and UI test coverage, improved the base interceptor for test stability, and added support for testing notifications and Compose screens
+            - Set up UI test infrastructure and nightly runs for the B2B app, enabling early detection of regressions
+            - Introduced TTI measurement and visualization in Grafana, initiated metric unification with iOS for comparability of results
+            - Took over and formalized estimation and tech-debt meetings, created a release responsibility calendar and process guidelines
+            - Maintained documentation for knowledge transfer, metrics, and architectural decisions
+
+            *Mentoring and community:*
+            - Mentored students within a university internship program — one of the students successfully passed the hiring process and joined the company as a junior
+            - Leading the mobile internship program at ITIS: defining requirements, regulations, coordinating mentors, working with students
+            - Mentors a student in the internal Academy program and an intern from an adjacent team
+            - Represented the company at a major internal conference (700+ participants)
+
+            *Other:*
+            - Successfully passed the internal Senior grade evaluation
+            - Received positive feedback from the team, manager, product, design, and adjacent teams throughout performance reviews<br><br>
 
       - layout: left
         title: Technokratos (Технократия)
@@ -109,32 +145,32 @@ content:
         sub_title: Android Developer
         caption: May 2023 - June 2024
         description: |
-            <mark>Implementation of manufacturing process control system and production tooling storage, MES system.</mark><br>
-            **Responsibilities:**
-            - Lead of Android development team
-            - Creating components for UiKit
-            - Adaptation of the application for different devices: terminal, tablet, smartphones
-            - Development and implementation of new features and refactoring of existing functionality
-            - Realization of work with external camera and internal storage of the device
-            - Code-review
-            - Fixing bugs and solving technical problems
-            - Application performance optimization
-            - Covering code with unit tests
-
-            **Stack:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
-            
-            **During this time:**
-            - Created a service for logging requests and errors within the application into json files
-            - Worked with NFC sensor and external camera
-            - Created a common mechanism for error handling in the whole application
-            - Realized work with table views with fixing of headers and columns
-            - Received **positive** feedback from the team and the customer throughout the job<br><br>   
+          <mark>Implementation of manufacturing process control system and production tooling storage, MES system.</mark><br>
+          **Responsibilities:**
+          - Lead of Android development team
+          - Creating components for UiKit
+          - Adaptation of the application for different devices: terminal, tablet, smartphones
+          - Development and implementation of new features and refactoring of existing functionality
+          - Realization of work with external camera and internal storage of the device
+          - Code-review
+          - Fixing bugs and solving technical problems
+          - Application performance optimization
+          - Covering code with unit tests
           
-            <mark>Auditing application code for an insurance company</mark><br>
-            **During this time:**
-            - Designed an audit plan and created a report template for mobile developers
-            - Used MobSF, LeakCanary, Accessibility Scanner, SonarQube
-            - Analyzed the project architecture<br><br><br>
+          **Stack:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
+          
+          **During this time:**
+          - Created a service for logging requests and errors within the application into json files
+          - Worked with NFC sensor and external camera
+          - Created a common mechanism for error handling in the whole application
+          - Realized work with table views with fixing of headers and columns
+          - Received **positive** feedback from the team and the customer throughout the job<br><br>
+          
+          <mark>Auditing application code for an insurance company</mark><br>
+          **During this time:**
+          - Designed an audit plan and created a report template for mobile developers
+          - Used MobSF, LeakCanary, Accessibility Scanner, SonarQube
+          - Analyzed the project architecture<br><br><br>
 
       - layout: left
         title: Spider Group
@@ -143,24 +179,25 @@ content:
         sub_title: Android Developer
         caption: November 2022 - May 2023
         description: |
-            <mark>Application development for an online lottery ticket purchase service.</mark><br>
-            **Responsibilities:**
-            - Lead Android Developer
-            - Development of new features
-            - Onboarding of other developers and further support
-            - Large number of tasks with multithreading
-            - Extensive code refactoring with the addition of new technologies
-            - Architectural decision making
-            - Code-review
-            
-            **Stack:** Kotlin • XML • Coroutines • Flow • MVVM • Cicerone • Dagger2 • Retrofit • Shared Preferences • Moshi • AdapterDelegates • Slack EitherNet • Paging 3
-            
-            **During this time:**
-            - Engaged in creating loaded screens with complex ui. For example, lottery screens with the ability to set an unlimited number of tickets according to different lottery rules, notifications, buying and paying for tickets and their sets
-            - Successfully onboarded three developers into the project and assisted them with designing new functionality
-            - Implemented on-the-fly localization with multi-language support
-            - Organized the camera and gallery and pre-processed photos before sending them to the server
-            - Worked with converting images for different containers
+          <mark>Application development for an online lottery ticket purchase service.</mark><br>
+          **Responsibilities:**
+          - Lead Android Developer
+          - Development of new features
+          - Onboarding of other developers and further support
+          - Large number of tasks with multithreading
+          - Extensive code refactoring with the addition of new technologies
+          - Architectural decision making
+          - Code-review
+          
+          **Stack:** Kotlin • XML • Coroutines • Flow • MVVM • Cicerone • Dagger2 • Retrofit • Shared Preferences • Moshi • AdapterDelegates • Slack EitherNet • Paging 3
+          
+          **During this time:**
+          - Engaged in creating loaded screens with complex ui. For example, lottery screens with the ability to set an unlimited number of tickets according to different lottery rules, notifications, buying and paying for tickets and their sets
+          - Successfully onboarded three developers into the project and assisted them with designing new functionality
+          - Implemented on-the-fly localization with multi-language support
+          - Organized the camera and gallery and pre-processed photos before sending them to the server
+          - Worked with converting images for different containers
+
       - layout: left
         title: Technokratos (Технократия)
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
@@ -168,11 +205,11 @@ content:
         sub_title: Summer Internship
         caption: July 2022
         description: | # this will include new lines to allow paragraphs
-            During the internship I participated in the development of the company's internal project with **full immersion in the development process**. For the first time I worked with **Compose**.<br>
-            *"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"* - @MyMentor
+          During the internship I participated in the development of the company's internal project with **full immersion in the development process**. For the first time I worked with **Compose**.<br>
+          _"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"_ - @MyMentor
 
-  - title: Education 
-    layout: list 
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Kazan Federal University
@@ -188,35 +225,34 @@ content:
         title: Skillbox
         caption: 2020-2022
         sub_title: Flutter-developer
-        description: | 
+        description: |
           Studied **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
 
       - layout: left
         title: Courses in Kazan Federal University
         caption: 2022 - 2023
         sub_title: System Analysis, UI/UX Design
-        description: | 
+        description: |
           Successfully completed the courses of **System analysis from BARS Group and UI/UX design from Agona**.
 
   - title: Hobbies
-    layout: text 
+    layout: text
     content: |
-        - Trying to lead an **active lifestyle**, insterested in **trying something new** and **participating in team activities**
-        - I've loved reading since childhood, especially **dystopias and fiction**, lately I've been drawn to different **books related to mythology** in English
-        - When I have time, I dive into any **Action/RPG** game with open world
-        - One of the reasons I like being a developer is that I will be able to work remotely and **travel** all the time (hopefully)
+      - Trying to lead an **active lifestyle**, insterested in **trying something new** and **participating in team activities**
+      - I've loved reading since childhood, especially **dystopias and fiction**, lately I've been drawn to different **books related to mythology** in English
+      - When I have time, I dive into any **Action/RPG** game with open world
+      - One of the reasons I like being a developer is that I will be able to work remotely and **travel** all the time (hopefully)
 
 # Footer
 footer_show_references: true
-references_title: | 
+references_title: |
   Telegram: <a>https://t.me/ElizavG</a>
 
 # Build settings
 remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
