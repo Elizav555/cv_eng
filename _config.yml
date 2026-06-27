@@ -56,6 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Native language is Russian
   - English level is C1
   - Also know a little bit of French and Spanish
+  
   - Sociable and easily join the team
   - Fast learner and inquisitive
   - Always meet deadlines and have the makings of a good leader
@@ -73,7 +74,6 @@ content:
        <mark>Hilt</mark> <mark>Dagger2</mark> <mark>Navigation Component</mark> <mark>Cicerone</mark><br><br>
        <mark>Retrofit</mark> <mark>OkHttp</mark> <mark>Room</mark> <mark>DataStore</mark> <mark>SharedPreferences</mark> <mark>Firebase</mark><br><br>
        <mark>JUnit</mark> <mark>Mockk</mark> <mark>Mockito</mark> <mark>UI Tests</mark> <mark>Charles</mark><br><br>
-       <mark>CameraX</mark> <mark>Camera2</mark> <mark>Paging3</mark> <mark>Lottie</mark> <mark>Moshi</mark> <mark>Kotlin Serialization</mark> <mark>AdapterDelegates</mark> <mark>Slack EitherNet</mark> <mark>Moxy</mark><br><br>
        <mark>System Design</mark> <mark>RFC/ADR</mark> <mark>Code Review</mark> <mark>Mentoring</mark> <mark>Feature Lead</mark><br><br>
        <mark>Grafana</mark> <mark>A/B Testing</mark> <mark>Analytics & Metrics</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
        <mark>Flutter</mark> <mark>Machine Learning</mark> <mark>System Analysis</mark><br><br>
